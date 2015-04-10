@@ -1,0 +1,89 @@
+.head-style{
+	font-family:Verdana, sans-serif;
+	color:#666;
+    font-size:48px;
+    padding-top:25px;
+
+}
+
+.img-format{
+	max-width:100%;
+    padding:20px 0px 20px 0px;
+}
+
+.sub-title-style{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size:1.74em;
+	font-weight:800;
+	color:#f07c17;
+	padding-top:19px;
+	padding-left: 15px;
+	margin-top: 0;
+}
+
+.main-text{
+	padding-left:0px;
+	padding-right:0px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color:#666;	
+}
+
+.main-p-text{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color:#666;
+    font-size:16px;
+	line-height:2.00em;	
+	padding-left:13px;
+	padding-right:0px;
+
+}
+
+.main-p1-text{
+	padding-top:20px;
+}
+
+.main-p2-text{
+	padding-top:4px;
+}
+
+.main-p3-text{
+	padding-top:2px;
+}
+
+.topic{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color:#666;
+	border:1px solid #ccc;
+	padding-bottom:0px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+    height: 224px;
+    width: 374px;	
+}
+
+.topic-sub-title-style{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size:1.74em;
+	font-weight:800;
+	color:#f07c17;
+    margin-top:0px;
+	margin-left:0px;
+	margin-bottom:25px;
+    padding-top:30px;
+    padding-left:30px;
+}
+ul li{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size:16px;
+
+	font-weight:500;
+	padding-top:10px;
+	padding-bottom:0px;
+	padding-left:0px;
+    margin-left:30px;
+}
